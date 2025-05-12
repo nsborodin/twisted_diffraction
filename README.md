@@ -20,7 +20,7 @@
 
 1. Клонирование репозитория:
 ```bash
-git clone https://github.com/yourusername/triangle-diffraction.git
+git clone https://github.com/nsborodin/triangle-diffraction.git
 cd triangle-diffraction
 ```
 
