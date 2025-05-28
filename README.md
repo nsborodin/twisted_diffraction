@@ -21,7 +21,7 @@
 1. Клонирование репозитория:
 ```bash
 git clone https://github.com/nsborodin/twisted_diffraction.git
-cd triangle-diffraction
+cd twisted_diffraction
 ```
 
 2. Установка зависимостей:
